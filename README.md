@@ -1,6 +1,6 @@
 # Plant Master 2000
 
-![Plant Master 2000](20170927_190321.jpg)
+![Plant Master 2000](images/pic-1.jpg)
 
 ### Guides
 
