@@ -1,6 +1,13 @@
 # Plant Master 2000
+### Arduino plant monitor
 
 ![Plant Master 2000](images/pic-1.jpg)
+
+---
+
+### Parts
+
+---
 
 ### Guides
 
